@@ -1,833 +1,1041 @@
 <div align="center">
 
 <!-- ========================================================================= -->
-<!-- SAAS NAVIGATION BAR (NEURONEST AESTHETIC)                                 -->
+<!-- NAVIGATION BAR (PILL-SHAPED SAAS NAVIGATION)                             -->
 <!-- ========================================================================= -->
 
 <p align="center">
-  <a href="#about">
-    <img src="https://img.shields.io/badge/%E2%9A%A1%20AAYUSH.DEV-SOFTWARE%20ENGINEER-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="Brand Logo" />
-  </a>
-  &nbsp;
-  <a href="#overview">
-    <img src="https://img.shields.io/badge/Home-181824?style=for-the-badge&logoColor=white" alt="Nav Home" />
-  </a>
-  <a href="#features">
-    <img src="https://img.shields.io/badge/Features-181824?style=for-the-badge&logoColor=white" alt="Nav Features" />
-  </a>
-  <a href="#advantages">
-    <img src="https://img.shields.io/badge/Advantages-181824?style=for-the-badge&logoColor=white" alt="Nav Advantages" />
-  </a>
-  <a href="#products">
-    <img src="https://img.shields.io/badge/Products-181824?style=for-the-badge&logoColor=white" alt="Nav Products" />
-  </a>
-  <a href="#arsenal">
-    <img src="https://img.shields.io/badge/Stack-181824?style=for-the-badge&logoColor=white" alt="Nav Stack" />
-  </a>
-  <a href="#tiers">
-    <img src="https://img.shields.io/badge/Tiers-181824?style=for-the-badge&logoColor=white" alt="Nav Tiers" />
-  </a>
-  <a href="#telemetry">
-    <img src="https://img.shields.io/badge/Telemetry-181824?style=for-the-badge&logoColor=white" alt="Nav Telemetry" />
-  </a>
-  <a href="#contact">
-    <img src="https://img.shields.io/badge/Contact-6366F1?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Nav Contact" />
-  </a>
+<a href="#home">
+<img src="https://img.shields.io/badge/Home-8B5CF6?style=for-the-badge&logoColor=white" alt="Home" />
+</a>
+&nbsp;
+<a href="#about">
+<img src="https://img.shields.io/badge/About-12111D?style=for-the-badge&logoColor=A1A1AA" alt="About" />
+</a>
+&nbsp;
+<a href="#features">
+<img src="https://img.shields.io/badge/Features-12111D?style=for-the-badge&logoColor=A1A1AA" alt="Features" />
+</a>
+&nbsp;
+<a href="#projects">
+<img src="https://img.shields.io/badge/Projects-12111D?style=for-the-badge&logoColor=A1A1AA" alt="Projects" />
+</a>
+&nbsp;
+<a href="#process">
+<img src="https://img.shields.io/badge/Process-12111D?style=for-the-badge&logoColor=A1A1AA" alt="Process" />
+</a>
+&nbsp;
+<a href="#skills">
+<img src="https://img.shields.io/badge/Skills-12111D?style=for-the-badge&logoColor=A1A1AA" alt="Skills" />
+</a>
+&nbsp;
+<a href="#analytics">
+<img src="https://img.shields.io/badge/Analytics-12111D?style=for-the-badge&logoColor=A1A1AA" alt="Analytics" />
+</a>
+&nbsp;
+<a href="#philosophy">
+<img src="https://img.shields.io/badge/Philosophy-12111D?style=for-the-badge&logoColor=A1A1AA" alt="Philosophy" />
+</a>
+&nbsp;
+<a href="#contact">
+<img src="https://img.shields.io/badge/Contact-12111D?style=for-the-badge&logoColor=A1A1AA" alt="Contact" />
+</a>
 </p>
 
 <br/>
 
 <!-- ========================================================================= -->
-<!-- SAAS HERO SECTION (MATCHING NEURONEST HERO)                               -->
+<!-- HERO SECTION                                                              -->
 <!-- ========================================================================= -->
 
-<!-- Notification Announcement Pill -->
+<div id="home"></div>
+
+<!-- Small Badge Above Heading -->
 <p align="center">
-  <a href="https://github.com/AayushShah406">
-    <img src="https://img.shields.io/badge/%E2%9C%A8%20THE%20NEXT%20FRONTIER%20IN%20SOFTWARE%20ENGINEERING-AUTONOMOUS%20AI%20%26%20DISTRIBUTED%20SYSTEMS-6366f1?style=for-the-badge" alt="Announcement Pill" />
-  </a>
+<img src="https://img.shields.io/badge/Software%20Engineer%20%E2%80%A2%20AI%20Engineer-2E1065?style=for-the-badge&color=18122B&labelColor=7C3AED&logo=target&logoColor=white" alt="Identity Badge" />
 </p>
 
-<!-- Glowing Hero Waving Banner -->
+<!-- Large Dominant SaaS Hero Heading -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,20:1e1035,50:6d28d9,75:4f46e5,100:0ea5e9&height=250&section=header&text=AAYUSH%20SHAH&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Code%20Fast%2C%20Accurately%2C%20and%20Efficiently%20with%20AI&descAlignY=58&descSize=18" alt="Aayush Shah Hero Banner" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=8B5CF6&height=140&text=Building%20Intelligent%20Products%20with%20AI%20%26%20Software&fontSize=42&fontColor=F5F5F5&fontAlignY=50" alt="Building Intelligent Products with AI & Software" />
 </p>
 
-<!-- Glowing Laser Divider -->
+<!-- Subtitle -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Line Divider" />
+<span style="font-size: 16px; color: #A1A1AA;">
+I build practical AI applications, scalable backend systems, and product-focused software.
+</span>
 </p>
 
-<!-- Animated Monospace Typing HUD -->
+<br/>
+
+<!-- Hero Pill Buttons -->
 <p align="center">
-  <a href="https://github.com/AayushShah406">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2400&pause=1000&color=A855F7&center=true&vCenter=true&width=880&height=50&lines=Architecting+Scalable+Backend+Systems;Python+%E2%80%A2+FastAPI+%E2%80%A2+Django+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis;Engineering+Autonomous+AI+Agents+%26+Hybrid+RAG+Pipelines;Real-Time+Computer+Vision+%26+Multimodal+Perception;99.99%25+SLA+%E2%80%A2+Sub-15ms+Latency+%E2%80%A2+Clean+Architecture" alt="Terminal Typing Effect" />
-  </a>
+<a href="#projects">
+<img src="https://img.shields.io/badge/View%20My%20Projects-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" alt="View My Projects" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/AayushShah406">
+<img src="https://img.shields.io/badge/GitHub%20Profile-1E1B4B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+</a>
 </p>
 
-<!-- Lead Subtitle -->
+<br/>
+
+<!-- ========================================================================= -->
+<!-- HERO PRODUCT VISUAL WITH INTEGRATED ANIMATED DEVELOPER                   -->
+<!-- ========================================================================= -->
+
+<!-- Interactive Workspace Visual Asset -->
 <p align="center">
-  <b>Dive into the future of software development with high-throughput distributed backends, low-latency microservices, and autonomous AI systems.</b>
+<img src="./assets/aayush-animated.svg" width="90%" alt="AI Workspace & Developer Character" />
 </p>
 
-<!-- Live Telemetry Status Pills -->
+<!-- Ambient Geometric Grid Background Asset -->
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE%20%26%20OPTIMAL-10b981?style=for-the-badge&logo=opsgenie&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROLE-SOFTWARE%20ENGINEER-6366f1?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AVAILABILITY-OPEN%20FOR%20HIRE-7c3aed?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/SLA-99.99%25%20UPTIME-0ea5e9?style=for-the-badge&logo=speedtest&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=AayushShah406&label=RADAR%20PINGS&color=09090b&style=for-the-badge" />
-</p>
-
-<!-- Hero Action Call-to-Action Buttons -->
-<p align="center">
-  <a href="#products">
-    <img src="https://img.shields.io/badge/%E2%96%B6%20GET%20STARTED-7C3AED?style=for-the-badge" alt="Get Started Button" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/%F0%9F%93%84%20VIEW%20CREDENTIALS-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=white" alt="View Credentials" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:aayushshah@example.com">
-    <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20GET%20IN%20TOUCH-09090B?style=for-the-badge&logo=mailgun&logoColor=white" alt="Get In Touch" />
-  </a>
+<img src="./assets/saas-grid.svg" width="90%" alt="SaaS Geometric Grid" />
 </p>
 
 </div>
 
-<br/>
+<br/><br/>
 
 <!-- ========================================================================= -->
-<!-- SECTION: SMART FEATURES, EFFORTLESS SMART CODING (NEURONEST 6-FEATURE GRID) -->
+<!-- SECTION: ABOUT / INTRODUCTION                                             -->
 <!-- ========================================================================= -->
 
-<div id="features"></div>
+<div id="about" align="center">
 
-<div align="center">
-  <p align="center">
-    <img src="https://img.shields.io/badge/PLATFORM%20CAPABILITIES-CORE%20SYSTEMS-6366f1?style=for-the-badge" alt="Badge" />
-  </p>
-  <h2>✨ Smart Features, Effortless Smart Coding</h2>
-  <p>Modular architectural pillars engineered for high velocity, reliability, and cognitive intelligence.</p>
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/ABOUT-7C3AED?style=flat-square&color=2E1065&labelColor=7C3AED" alt="About Eyebrow" />
+</p>
 
-<!-- Features Row 1 -->
-<table width="100%">
-  <tr>
-    <!-- Feature 01: Code Review & Distributed Systems -->
-    <td width="33%" valign="top">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="48" alt="Laptop" />
-        <br/>
-        <b>Code Review &amp; Analysis</b>
-        <br/>
-        <img src="https://img.shields.io/badge/BACKEND-OPTIMAL-0ea5e9?style=flat-square" />
-      </div>
-      <p align="center">
-        <sub>Automated structural profiling, strict linting, and high-concurrency architecture.</sub>
-      </p>
-      <ul>
-        <li><b>FastAPI &amp; Django Microservices</b>: Low-latency asynchronous REST API contracts.</li>
-        <li><b>Clean Architecture</b>: Decoupled domain business logic from transport layers.</li>
-        <li><b>Static Analysis</b>: Type-checked runtime schemas with Pydantic and TypeScript.</li>
-        <li><b>Continuous Review</b>: Automated regression validation in CI/CD pipelines.</li>
-      </ul>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Execution%20Efficiency-98%25-0ea5e9?style=flat-square" />
-      </div>
-    </td>
+<h2>Software Engineering with a Product Mindset</h2>
 
-    <!-- Feature 02: Refactoring & Query Optimization -->
-    <td width="33%" valign="top">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="48" alt="Database" />
-        <br/>
-        <b>Refactoring Assistance</b>
-        <br/>
-        <img src="https://img.shields.io/badge/DATABASE-INDEXED-8b5cf6?style=flat-square" />
-      </div>
-      <p align="center">
-        <sub>Systematic refactoring of relational schemas, query plans, and in-memory caches.</sub>
-      </p>
-      <ul>
-        <li><b>PostgreSQL Profiling</b>: EXPLAIN ANALYZE index tuning and join optimization.</li>
-        <li><b>Redis In-Memory Caching</b>: Sub-5ms key-value retrieval with TTL expirations.</li>
-        <li><b>Concurrency Safety</b>: Atomic transaction blocks preventing race conditions.</li>
-        <li><b>Connection Pooling</b>: Asynchronous database pools handling thousands of requests.</li>
-      </ul>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Query%20Optimization-95%25-8b5cf6?style=flat-square" />
-      </div>
-    </td>
+<p align="center">
+<i>"I enjoy turning ideas into useful software products by combining backend engineering, artificial intelligence, computer vision, and modern web technologies."</i>
+</p>
 
-    <!-- Feature 03: Language Translation & Agent Reasoning -->
-    <td width="33%" valign="top">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="48" alt="AI Robot" />
-        <br/>
-        <b>Autonomous Reasoning</b>
-        <br/>
-        <img src="https://img.shields.io/badge/NEURAL-COGNITIVE-ec4899?style=flat-square" />
-      </div>
-      <p align="center">
-        <sub>Multi-step tool-calling agents capable of planning, execution, and self-correction.</sub>
-      </p>
-      <ul>
-        <li><b>Autonomous Task Loops</b>: Tool-calling execution cycles evaluating live feedback.</li>
-        <li><b>Structured Output Schemas</b>: Deterministic JSON parsing for enterprise pipelines.</li>
-        <li><b>Self-Healing Prompts</b>: Contextual retry mechanisms recovering from runtime faults.</li>
-        <li><b>Groq LPU Synthesis</b>: Blazing sub-second inference speeds across 70B models.</li>
-      </ul>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Reasoning%20Accuracy-94%25-ec4899?style=flat-square" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-<!-- Features Row 2 -->
-<table width="100%">
-  <tr>
-    <!-- Feature 04: Project Management & Kanban -->
-    <td width="33%" valign="top">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" width="48" alt="Clipboard" />
-        <br/>
-        <b>Task Orchestration</b>
-        <br/>
-        <img src="https://img.shields.io/badge/AGILE-ENTERPRISE-34d399?style=flat-square" />
-      </div>
-      <p align="center">
-        <sub>Collaborative issue tracking, sprint milestones, and real-time state machines.</sub>
-      </p>
-      <ul>
-        <li><b>Role-Based Access Control</b>: Granular permissions for engineers and managers.</li>
-        <li><b>State Synchronization</b>: Real-time Kanban workflows with instant UI sync.</li>
-        <li><b>Sprint Analytics</b>: Automated burndown metrics and milestone tracking.</li>
-        <li><b>Audit Trails</b>: Immutable event records logging team changes.</li>
-      </ul>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Workflow%20Velocity-96%25-34d399?style=flat-square" />
-      </div>
-    </td>
-
-    <!-- Feature 05: Code Visualization & Vision -->
-    <td width="33%" valign="top">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" width="48" alt="Camera" />
-        <br/>
-        <b>Vision &amp; Perception</b>
-        <br/>
-        <img src="https://img.shields.io/badge/VISION-30%20FPS-f59e0b?style=flat-square" />
-      </div>
-      <p align="center">
-        <sub>Spatial computer vision models streaming real-time object detection and biometrics.</sub>
-      </p>
-      <ul>
-        <li><b>YOLOv8 Entity Detection</b>: High-speed multi-class spatial localization.</li>
-        <li><b>Biometric Verification</b>: Zero-cloud on-device facial signature recognition.</li>
-        <li><b>OpenCV Video Pipeline</b>: Frame-buffer normalization with WebSockets.</li>
-        <li><b>Telemetry Overlay</b>: Live confidence scores and spatial bounding coordinates.</li>
-      </ul>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Frame%20Processing-30%20FPS-f59e0b?style=flat-square" />
-      </div>
-    </td>
-
-    <!-- Feature 06: Monitoring & Statistics -->
-    <td width="33%" valign="top">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="48" alt="Chart" />
-        <br/>
-        <b>Monitoring &amp; Telemetry</b>
-        <br/>
-        <img src="https://img.shields.io/badge/SRE-DIAGNOSTIC-a855f7?style=flat-square" />
-      </div>
-      <p align="center">
-        <sub>Telemetry aggregation, container log inspection, and automated health checks.</sub>
-      </p>
-      <ul>
-        <li><b>Automated Diagnostics</b>: Continuous log classification isolating regressions.</li>
-        <li><b>Distributed Tracing</b>: Sub-millisecond end-to-end request latency visibility.</li>
-        <li><b>Docker Containerization</b>: Isolated, reproducible multi-stage microservices.</li>
-        <li><b>GitHub Actions CI/CD</b>: Zero-downtime integration and automated test suites.</li>
-      </ul>
-      <div align="center">
-        <img src="https://img.shields.io/badge/System%20Observability-99%25-a855f7?style=flat-square" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ========================================================================= -->
-<!-- SECTION: UNLOCK UNPARALLELED CODING ADVANTAGES (NEURONEST STATS GRID)     -->
-<!-- ========================================================================= -->
-
-<div id="advantages"></div>
-
-<div align="center">
-  <p align="center">
-    <img src="https://img.shields.io/badge/BENCHMARKS-PROVEN%20METRICS-10b981?style=for-the-badge" alt="Badge" />
-  </p>
-  <h2>🚀 Unlock Unparalleled Engineering Advantages Today</h2>
-  <p>Demonstrated performance benchmarks achieved across cloud deployments and distributed systems.</p>
-</div>
-
-<table width="100%">
-  <tr>
-    <td width="20%" align="center">
-      <h1 style="color: #38bdf8; margin: 0; font-size: 38px;">99.99%</h1>
-      <b>Availability SLA</b>
-      <p><sub>Target uptime achieved through health checks and rolling container deploys.</sub></p>
-      <img src="https://img.shields.io/badge/Availability-Targeted-38bdf8?style=flat-square" />
-    </td>
-    <td width="20%" align="center">
-      <h1 style="color: #c084fc; margin: 0; font-size: 38px;">&lt; 15ms</h1>
-      <b>Query Latency</b>
-      <p><sub>Sub-millisecond Redis in-memory cache lookups and indexed PostgreSQL reads.</sub></p>
-      <img src="https://img.shields.io/badge/Latency-Ultra--Low-c084fc?style=flat-square" />
-    </td>
-    <td width="20%" align="center">
-      <h1 style="color: #ec4899; margin: 0; font-size: 38px;">100K+</h1>
-      <b>Event Capacity</b>
-      <p><sub>Asynchronous task queues efficiently streaming high-throughput events.</sub></p>
-      <img src="https://img.shields.io/badge/Throughput-100K%20Events-ec4899?style=flat-square" />
-    </td>
-    <td width="20%" align="center">
-      <h1 style="color: #34d399; margin: 0; font-size: 38px;">98.5%</h1>
-      <b>Test Coverage</b>
-      <p><sub>Automated pytest and integration test suites passing consistently in CI.</sub></p>
-      <img src="https://img.shields.io/badge/Coverage-Automated-34d399?style=flat-square" />
-    </td>
-    <td width="20%" align="center">
-      <h1 style="color: #f59e0b; margin: 0; font-size: 38px;">&lt; 300ms</h1>
-      <b>LLM TTFT</b>
-      <p><sub>Sub-second time to first token conversational streaming via Groq LPU API.</sub></p>
-      <img src="https://img.shields.io/badge/Inference-Sub--Second-f59e0b?style=flat-square" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ========================================================================= -->
-<!-- SECTION: FLAGSHIP PRODUCTION PLATFORMS (SAAS APPS SHOWCASE)               -->
-<!-- ========================================================================= -->
-
-<div id="products"></div>
-
-<div align="center">
-  <p align="center">
-    <img src="https://img.shields.io/badge/ENTERPRISE%20PORTFOLIO-FLAGSHIP%20PRODUCTS-7c3aed?style=for-the-badge" alt="Badge" />
-  </p>
-  <h2>💼 Flagship Platforms &amp; Deployed SaaS Products</h2>
-  <p>Engineered from first principles for performance, fault tolerance, and intelligent automation.</p>
-</div>
-
-<!-- Product 01: LifeOS -->
-<table width="100%">
-  <tr>
-    <td width="70%" valign="top">
-      <div align="left">
-        <img src="https://img.shields.io/badge/FLAGSHIP%2001-MULTIMODAL%20AI-7c3aed?style=flat-square" />
-        <img src="https://img.shields.io/badge/STATUS-PRODUCTION%20ACTIVE-10b981?style=flat-square" />
-        <h3>🧠 LifeOS — Multimodal Perception AI Platform</h3>
-        <p>
-          An ambient cognitive personal intelligence system fusing real-time spatial vision, biometric facial recognition, on-device audio NLP, and a hybrid RAG conversational memory engine.
-        </p>
-        <ul>
-          <li><b>Real-Time Spatial Detection</b>: Integrated YOLOv8 model streaming detected entities over WebSockets.</li>
-          <li><b>Hybrid RAG Memory</b>: Dense semantic vector storage in ChromaDB combined with relational session logs.</li>
-          <li><b>Low-Latency Assistant</b>: Conversational AI streaming responses in sub-300ms using the Groq LPU API.</li>
-          <li><b>Zero-Cloud Biometrics</b>: Local speaker recognition and facial verification maintaining user privacy.</li>
-        </ul>
-        <p>
-          <a href="https://github.com/AayushShah406/LifeOs">
-            <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-LIFEOS-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-      </div>
-    </td>
-    <td width="30%" valign="middle" align="center">
-      <b>CORE STACK</b><br/><br/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/React_TS-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
-      <img src="https://img.shields.io/badge/ChromaDB-FF6600?style=flat-square&logo=target&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=speedtest&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=theia&logoColor=black" />
-      <br/><br/>
-      <sub>SLA: 99.9% &bull; Latency: &lt;20ms</sub>
-    </td>
-  </tr>
-</table>
-
-<!-- Product 02: OpsPilot-AI -->
-<table width="100%">
-  <tr>
-    <td width="70%" valign="top">
-      <div align="left">
-        <img src="https://img.shields.io/badge/FLAGSHIP%2002-AUTONOMOUS%20SRE-8b5cf6?style=flat-square" />
-        <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-10b981?style=flat-square" />
-        <h3>🤖 OpsPilot-AI — Autonomous Site Reliability Engineering Agent</h3>
-        <p>
-          An autonomous incident triage and orchestration platform that monitors container telemetry, classifies runtime anomalies via log analysis, and triggers automated remediation workflows.
-        </p>
-        <ul>
-          <li><b>Autonomous Agent Core</b>: Ingests Docker telemetry streams and classifies system anomalies in real time.</li>
-          <li><b>Automated Healing</b>: Executes corrective scripts and initiates rollbacks for failing container tasks.</li>
-          <li><b>Root Cause Synthesis</b>: Generates markdown incident postmortems automatically using LLM reasoning.</li>
-          <li><b>High-Throughput Dispatcher</b>: Routes priority alerts to engineering teams via webhooks and push notifications.</li>
-        </ul>
-        <p>
-          <a href="https://github.com/AayushShah406">
-            <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-OPSPILOT--AI-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-      </div>
-    </td>
-    <td width="30%" valign="middle" align="center">
-      <b>CORE STACK</b><br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/AI_Agents-7928CA?style=flat-square&logo=probot&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Linux_CLI-FCC624?style=flat-square&logo=linux&logoColor=black" />
-      <br/><br/>
-      <sub>Throughput: 10k logs/sec</sub>
-    </td>
-  </tr>
-</table>
-
-<!-- Product 03: Sprintly -->
-<table width="100%">
-  <tr>
-    <td width="70%" valign="top">
-      <div align="left">
-        <img src="https://img.shields.io/badge/FLAGSHIP%2003-ENTERPRISE%20AGILE-ec4899?style=flat-square" />
-        <img src="https://img.shields.io/badge/STATUS-PRODUCTION%20DEPLOYED-10b981?style=flat-square" />
-        <h3>🏃 Sprintly — Enterprise Agile Planning &amp; Tracking Suite</h3>
-        <p>
-          A high-concurrency issue-tracking and sprint execution platform built for software squads, featuring granular RBAC permissions, live kanban synchronization, and audit logging.
-        </p>
-        <ul>
-          <li><b>Granular RBAC Security</b>: Role-gated capabilities for engineering leads, contributors, and observers.</li>
-          <li><b>Optimized Relational Schema</b>: PostgreSQL tables indexed for rapid sprint reporting and burndown analysis.</li>
-          <li><b>Interactive Kanban Board</b>: Dynamic drag-and-drop state machine updating card statuses in real time.</li>
-          <li><b>REST API Ecosystem</b>: Clean OpenAPI-documented endpoints for integration into third-party CI/CD tools.</li>
-        </ul>
-        <p>
-          <a href="https://github.com/AayushShah406">
-            <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-SPRINTLY-EC4899?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-      </div>
-    </td>
-    <td width="30%" valign="middle" align="center">
-      <b>CORE STACK</b><br/><br/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Django_REST-A30000?style=flat-square&logo=django&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <br/><br/>
-      <sub>Concurrency: 5,000+ users</sub>
-    </td>
-  </tr>
-</table>
-
-<!-- Product 04: StreamMesh -->
-<table width="100%">
-  <tr>
-    <td width="70%" valign="top">
-      <div align="left">
-        <img src="https://img.shields.io/badge/FLAGSHIP%2004-DISTRIBUTED%20GATEWAY-34d399?style=flat-square" />
-        <img src="https://img.shields.io/badge/STATUS-HIGH%20THROUGHPUT-10b981?style=flat-square" />
-        <h3>⚡ StreamMesh — Distributed Event &amp; Cache Gateway</h3>
-        <p>
-          A high-throughput event router and caching gateway designed to decouple microservices, manage distributed asynchronous queues, and reduce backend database load.
-        </p>
-        <ul>
-          <li><b>Sub-Millisecond Cache Invalidation</b>: Tiered LRU memory cache with Redis cluster synchronization.</li>
-          <li><b>Resilient Task Dispatcher</b>: Exponential backoff and dead-letter queues handling transient failures.</li>
-          <li><b>Live Throughput Telemetry</b>: Real-time request routing metrics streamed directly to monitoring dashboards.</li>
-          <li><b>Multi-Worker Concurrency</b>: Asynchronous non-blocking workers delivering sub-5ms median latency.</li>
-        </ul>
-        <p>
-          <a href="https://github.com/AayushShah406">
-            <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-STREAMMESH-34D399?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-      </div>
-    </td>
-    <td width="30%" valign="middle" align="center">
-      <b>CORE STACK</b><br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <br/><br/>
-      <sub>Latency: &lt;5ms &bull; Async Queue</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ========================================================================= -->
-<!-- SECTION: TECH ARSENAL (DARK NEON SAAS CATALOG)                            -->
-<!-- ========================================================================= -->
-
-<div id="arsenal"></div>
-
-<div align="center">
-  <p align="center">
-    <img src="https://img.shields.io/badge/ENGINEERING%20TOOLCHAIN-PRODUCTION%20ARSENAL-0ea5e9?style=for-the-badge" alt="Badge" />
-  </p>
-  <h2>🛠️ Interactive Tech Arsenal &amp; Capabilities</h2>
-  <p>Full-spectrum toolchain powering distributed backends, vector search, and cloud deployments.</p>
-
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,docker,ts,react,linux,git,github,bash&theme=dark" alt="Master Tech Arsenal" />
-  </p>
-</div>
-
-<table width="100%">
-  <tr>
-    <td width="25%">
-      <b>⚡ Core Languages</b>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>🌐 Backend &amp; Web</b>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/Django_REST-A30000?style=for-the-badge&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>💾 Data &amp; Vector Stores</b>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logo=target&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>🧠 AI &amp; Perception</b>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Groq_LPU-F55036?style=for-the-badge&logo=speedtest&logoColor=white" />
-      <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=theia&logoColor=black" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/Autonomous_Agents-7928CA?style=for-the-badge&logo=probot&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>⚙️ Cloud, Infra &amp; Tooling</b>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-      <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ========================================================================= -->
-<!-- SECTION: EMPOWER YOUR CODE, PICK YOUR TIER (NEURONEST PRICING GRID)      -->
-<!-- ========================================================================= -->
-
-<div id="tiers"></div>
-
-<div align="center">
-  <p align="center">
-    <img src="https://img.shields.io/badge/SPECIALIZATION%20TIERS-SELECT%20LEVEL-6366f1?style=for-the-badge" alt="Badge" />
-  </p>
-  <h2>💎 Empower Your Code, Pick Your Engineering Tier</h2>
-  <p>Engineered capability levels detailing scope, architecture delivery, and technical standards.</p>
-</div>
-
-<table width="100%">
-  <tr>
-    <!-- Tier 01: Core Backend Developer -->
-    <td width="33%" valign="top">
-      <div align="center">
-        <img src="https://img.shields.io/badge/TIER%2001-CORE%20ENGINEER-38bdf8?style=flat-square" />
-        <h3>Core Backend</h3>
-        <p>Foundational Microservices &amp; APIs</p>
-        <hr/>
-      </div>
-      <ul>
-        <li>Clean REST API Architecture with FastAPI &amp; Django</li>
-        <li>Relational database modeling with PostgreSQL</li>
-        <li>Token-based authentication (JWT, OAuth2)</li>
-        <li>Unit and integration testing with pytest</li>
-        <li>Modular, self-documenting codebases</li>
-      </ul>
-      <div align="center">
-        <a href="mailto:aayushshah@example.com">
-          <img src="https://img.shields.io/badge/SELECT%20TIER%2001-181824?style=for-the-badge&logoColor=white" />
-        </a>
-      </div>
-    </td>
-
-    <!-- Tier 02: Full-Stack Architect (Highlighted) -->
-    <td width="33%" valign="top">
-      <div align="center">
-        <img src="https://img.shields.io/badge/TIER%2002-RECOMMENDED%20FOCUS-7c3aed?style=for-the-badge" />
-        <h3>Distributed Architect</h3>
-        <p>High-Throughput Systems &amp; Caching</p>
-        <hr/>
-      </div>
-      <ul>
-        <li><b>High-Throughput Microservice Meshes</b></li>
-        <li><b>Redis In-Memory Caching &amp; Pub/Sub Queues</b></li>
-        <li><b>PostgreSQL Query Optimization &amp; Indexing</b></li>
-        <li><b>Docker Containerization &amp; Multi-Stage Builds</b></li>
-        <li><b>Automated GitHub Actions CI/CD Workflows</b></li>
-        <li><b>Full-Stack React &amp; TypeScript Integration</b></li>
-      </ul>
-      <div align="center">
-        <a href="mailto:aayushshah@example.com">
-          <img src="https://img.shields.io/badge/PRIMARY%20FOCUS-7C3AED?style=for-the-badge&logoColor=white" />
-        </a>
-      </div>
-    </td>
-
-    <!-- Tier 03: AI & Perception Specialist -->
-    <td width="33%" valign="top">
-      <div align="center">
-        <img src="https://img.shields.io/badge/TIER%2003-AI%20SYSTEMS-ec4899?style=flat-square" />
-        <h3>AI Systems Lead</h3>
-        <p>Autonomous Agents &amp; Vision</p>
-        <hr/>
-      </div>
-      <ul>
-        <li>Autonomous AI reasoning agent architecture</li>
-        <li>Hybrid RAG vector pipelines with ChromaDB</li>
-        <li>Sub-second inference streaming via Groq LPU</li>
-        <li>Real-time YOLOv8 spatial computer vision</li>
-        <li>Biometric face and voice authentication</li>
-      </ul>
-      <div align="center">
-        <a href="mailto:aayushshah@example.com">
-          <img src="https://img.shields.io/badge/SELECT%20TIER%2003-181824?style=for-the-badge&logoColor=white" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ========================================================================= -->
-<!-- SECTION: REAL-TIME GITHUB CLOUD TELEMETRY & HUD METRICS                   -->
-<!-- ========================================================================= -->
-
-<div id="telemetry"></div>
-
-<div align="center">
-  <p align="center">
-    <img src="https://img.shields.io/badge/CLOUD%20GRID-LIVE%20TELEMETRY-38bdf8?style=for-the-badge" alt="Badge" />
-  </p>
-  <h2>📊 Real-Time GitHub Cloud Telemetry &amp; HUD</h2>
-  <p>Streaming activity, repository contributions, and language distribution analytics.</p>
-
-  <!-- Dual Stats Card in TokyoNight Palette -->
-  <table border="0" width="100%">
-    <tr>
-      <td width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=AayushShah406&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8&icon_color=A855F7&text_color=CBD5E1&bg_color=0B0B14" alt="GitHub Stats Card" />
-      </td>
-      <td width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushShah406&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=CBD5E1&bg_color=0B0B14" alt="Top Languages Card" />
-      </td>
-    </tr>
-  </table>
-
-  <!-- Contribution Telemetry Activity Graph -->
-  <p align="center">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AayushShah406&bg_color=0B0B14&color=38BDF8&line=A855F7&point=EC4899&area=true&hide_border=true&custom_title=Aayush%20Shah%20-%20Engineering%20Contribution%20Telemetry" alt="Activity Graph" />
-  </p>
-
-  <!-- Streak Stats Card -->
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=AayushShah406&theme=tokyonight&hide_border=true&background=0B0B14&ring=38BDF8&fire=EC4899&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B" alt="Streak Stats" />
-  </p>
-
-  <!-- Animated Contribution Grid Snake -->
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AayushShah406/AayushShah406/output/github-contribution-grid-snake.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AayushShah406/AayushShah406/output/github-contribution-grid-snake.svg" />
-      <img width="100%" alt="Contribution Grid Snake" src="https://raw.githubusercontent.com/AayushShah406/AayushShah406/output/github-contribution-grid-snake.svg" />
-    </picture>
-  </p>
 </div>
 
 <br/>
 
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
+<tr>
+<td width="50%" valign="top">
+
+### Product-Oriented Engineering Focus
+
+I specialize in designing and engineering end-to-end software products from first principles.
+
+Rather than treating software development as an isolated set of syntax scripts, I approach each initiative as a cohesive product.
+
+This mindset guides every architectural decision:
+- **Clean Interface Design**: Crafting intuitive user journeys and clear visual hierarchies.
+- **Robust Server Backends**: Structuring predictable API endpoints with strict data contracts.
+- **Applied Artificial Intelligence**: Grounding generative models and vector search in real-world contexts.
+- **Operational Reliability**: Ensuring services run smoothly, securely, and consistently under load.
+
+My objective is always to bridge the gap between complex engineering capabilities and meaningful user outcomes.
+
+</td>
+<td width="50%" valign="top">
+
+### Engineering Profile &amp; Focus Depth
+
+<br/>
+
+**AI Engineering**
+<br/>
+`████████████████████░░`
+<br/>
+<sub>RAG &bull; LLM Applications &bull; AI Agents &bull; Vector Search</sub>
+
+<br/><br/>
+
+**Backend Engineering**
+<br/>
+`██████████████████░░░░`
+<br/>
+<sub>Python &bull; FastAPI &bull; Django &bull; REST APIs &bull; Clean Architecture</sub>
+
+<br/><br/>
+
+**Computer Vision**
+<br/>
+`████████████████░░░░░░`
+<br/>
+<sub>Real-Time Detection &bull; YOLO &bull; OpenCV &bull; Spatial Analysis</sub>
+
+<br/><br/>
+
+**Product Development**
+<br/>
+`███████████████████░░░`
+<br/>
+<sub>React &bull; TypeScript &bull; Interactive Dashboards &bull; Tailwind CSS</sub>
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
 <!-- ========================================================================= -->
-<!-- SECTION: ARCHITECTURAL CODE & PRINCIPLES                                  -->
+<!-- SECTION: FEATURE CARDS ("BUILDING SOFTWARE THAT DOES MORE")               -->
 <!-- ========================================================================= -->
 
-<div align="center">
-  <p align="center">
-    <img src="https://img.shields.io/badge/STANDARDS-SLA%20PRINCIPLES-10b981?style=for-the-badge" alt="Badge" />
-  </p>
-  <h2>📜 Software Engineering Code &amp; SLA Standards</h2>
-  <p>Core architectural principles observed across every production implementation.</p>
+<div id="features" align="center">
 
-  <table width="100%">
-    <tr>
-      <td width="50%">
-        <b>01. DECOUPLE CLEANLY</b>
-        <p>Strict boundaries separating business domain models, database persistence, and network transport.</p>
-        <img src="https://img.shields.io/badge/Boundary-Decoupled-38bdf8?style=flat-square" />
-      </td>
-      <td width="50%">
-        <b>02. LOW-LATENCY DESIGN</b>
-        <p>O(1) key lookups, non-blocking asynchronous event loops, and eager database joins.</p>
-        <img src="https://img.shields.io/badge/Optimization-O(1)%20Target-8b5cf6?style=flat-square" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>03. FAULT-TOLERANT ARCHITECTURE</b>
-        <p>Circuit breakers, exponential retry backoffs, and dead-letter queues preventing cascading failures.</p>
-        <img src="https://img.shields.io/badge/Resilience-Circuit%20Breaker-ec4899?style=flat-square" />
-      </td>
-      <td>
-        <b>04. STRICT TYPE SAFETY</b>
-        <p>Comprehensive Pydantic models in Python and strict TypeScript interfaces on the client.</p>
-        <img src="https://img.shields.io/badge/Type%20Safety-100%25%20Strict-34d399?style=flat-square" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>05. MEASURE EVERYTHING</b>
-        <p>Telemetry logging, audit trails, and distributed tracing covering every user interaction.</p>
-        <img src="https://img.shields.io/badge/Observability-Continuous-f59e0b?style=flat-square" />
-      </td>
-      <td>
-        <b>06. ZERO-DOWNTIME DELIVERY</b>
-        <p>Containerized Docker workloads validated by automated GitHub Actions CI before deploy.</p>
-        <img src="https://img.shields.io/badge/Deployment-Zero%20Downtime-0ea5e9?style=flat-square" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+<img src="https://img.shields.io/badge/PLATFORM%20CAPABILITIES-8B5CF6?style=flat-square&color=2E1065&labelColor=7C3AED" alt="Capabilities Eyebrow" />
+</p>
+
+<h2>Building Software That Does More</h2>
+
+<p>Modular capabilities engineered for high velocity, deep reliability, and practical intelligence.</p>
+
 </div>
 
 <br/>
 
-<!-- ========================================================================= -->
-<!-- SECTION: FREQUENTLY ASKED QUESTIONS (COLLAPSIBLE ACCORDION)               -->
-<!-- ========================================================================= -->
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
+<tr>
+<td width="33%" valign="top">
 
 <div align="center">
-  <p align="center">
-    <img src="https://img.shields.io/badge/HELP%20CENTER-FAQ-a855f7?style=for-the-badge" alt="Badge" />
-  </p>
-  <h2>❓ Frequently Asked Questions</h2>
-  <p>Technical insights into architecture decisions, workflows, and collaboration.</p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="40" alt="AI Icon" />
+<br/>
+<b>AI Engineering</b>
+<br/>
+<img src="https://img.shields.io/badge/Intelligence-Applied-7C3AED?style=flat-square" />
 </div>
 
-<details>
-  <summary><b>What is your primary software engineering focus?</b></summary>
-  <p>
-    My core focus is backend architecture and distributed systems engineered in Python (FastAPI and Django) and PostgreSQL, complemented by high-performance in-memory caching with Redis and real-time AI systems (autonomous reasoning agents, ChromaDB vector RAG, and YOLO computer vision).
-  </p>
-</details>
+<p>
+Architecting intelligent workflows that combine generative models with structured information retrieval.
+</p>
 
-<details>
-  <summary><b>How do you optimize API latency and database performance?</b></summary>
-  <p>
-    I use connection pooling (such as asyncpg), profile database queries using EXPLAIN ANALYZE, add targeted B-tree and composite indices, avoid N+1 query traps with eager loading, and implement two-tier caching strategies using in-memory LRU structures and Redis clusters.
-  </p>
-</details>
+- **RAG**: Retrieval-Augmented Generation connecting LLMs with private, high-dimensional vector databases.
+- **LLM applications**: Domain-grounded conversational assistants tailored for specific operational workflows.
+- **AI agents**: Autonomous multi-step tool-calling execution loops that evaluate intermediate results.
+- **Vector search**: Dense semantic embeddings enabling nuanced conceptual search beyond keyword matching.
 
-<details>
-  <summary><b>What is your approach to building production AI systems?</b></summary>
-  <p>
-    Rather than relying on monolithic wrappers, I build custom tool-calling execution loops that enforce strict JSON schemas, leverage sub-second inference engines like the Groq LPU, and combine dense vector embeddings with relational databases to ensure deterministic, low-latency, and grounded responses.
-  </p>
-</details>
+</td>
+<td width="33%" valign="top">
 
-<details>
-  <summary><b>Are you open to full-time or contract Software Engineering opportunities?</b></summary>
-  <p>
-    Yes! I am actively looking for Software Engineering, Backend Architecture, and AI Systems positions. Feel free to reach out directly via LinkedIn or email to discuss technical roles or architectural initiatives.
-  </p>
-</details>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" alt="Backend Icon" />
+<br/>
+<b>Backend Engineering</b>
+<br/>
+<img src="https://img.shields.io/badge/Backend-Scalable-8B5CF6?style=flat-square" />
+</div>
+
+<p>
+Engineering performant, maintainable server backends built on clean architectural separation.
+</p>
+
+- **Python**: Primary language for scalable backend design, algorithmic logic, and automation.
+- **FastAPI**: Modern, high-performance web frameworks with automatic validation and documentation.
+- **Django**: Mature framework for rapid, enterprise-grade web development and ORM management.
+- **REST APIs**: Consistent, well-documented endpoint structures adhering to predictable HTTP standards.
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" width="40" alt="Vision Icon" />
+<br/>
+<b>Computer Vision</b>
+<br/>
+<img src="https://img.shields.io/badge/Vision-Real--Time-A78BFA?style=flat-square" />
+</div>
+
+<p>
+Developing real-time vision pipelines that extract meaningful spatial information from visual streams.
+</p>
+
+- **Object detection**: High-speed identification and localization of target entities across video frames.
+- **Real-time vision**: Low-latency image processing pipelines designed for interactive webcam input.
+- **Image analysis**: Feature extraction, spatial dimension analysis, and image classification models.
+- **AI perception**: Understanding environmental context, spatial boundaries, and visual scenes.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- ========================================================================= -->
-<!-- SECTION: SAAS FOOTER & COMM-LINK                                          -->
-<!-- ========================================================================= -->
-
-<div id="contact"></div>
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
+<tr>
+<td width="33%" valign="top">
 
 <div align="center">
-  <p align="center">
-    <img src="https://img.shields.io/badge/COMMUNICATIONS-REACH%20OUT-6366f1?style=for-the-badge" alt="Badge" />
-  </p>
-  <h2>📬 Connect &amp; Initiate Communications</h2>
-  <p>Let's build scalable platforms, low-latency backends, and intelligent AI architectures together.</p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="40" alt="Data Icon" />
+<br/>
+<b>Data Systems</b>
+<br/>
+<img src="https://img.shields.io/badge/Datastores-Optimized-7C3AED?style=flat-square" />
+</div>
 
-  <p align="center">
-    <a href="https://github.com/AayushShah406" target="_blank">
-      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    &nbsp;
-    <a href="https://linkedin.com/in/" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="mailto:aayushshah@example.com" target="_blank">
-      <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+<p>
+Structuring durable relational models, fast cache layers, and specialized vector collections.
+</p>
 
-  <!-- Glowing Cyber Laser Divider -->
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Line Divider" />
-  </p>
+- **PostgreSQL**: Relational schema normalization, complex SQL queries, and transactional integrity.
+- **MongoDB**: Schema-flexible document storage designed for semi-structured data pipelines.
+- **Redis**: Low-latency in-memory data structures utilized for caching, sessions, and pub/sub queues.
+- **Vector databases**: Pinecone and ChromaDB indices optimized for semantic similarity search.
 
-  <!-- Animated Cyber Wave Footer -->
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,20:1e1035,50:6d28d9,75:4f46e5,100:0ea5e9&height=120&section=footer" alt="Footer Cyber Wave" />
-  </p>
+</td>
+<td width="33%" valign="top">
 
-  <p align="center">
-    <sub>⚡ <b>Aayush Shah</b> &bull; Engineered with Precision, Scalability &amp; Modern SaaS Aesthetics &bull; High-Availability Cloud Systems ⚡</sub>
-  </p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="40" alt="Product Icon" />
+<br/>
+<b>Product Development</b>
+<br/>
+<img src="https://img.shields.io/badge/Frontend-Interactive-8B5CF6?style=flat-square" />
+</div>
+
+<p>
+Translating technical capabilities into responsive, intuitive, and modern web applications.
+</p>
+
+- **React**: Reusable, component-driven frontend architecture with clean state management.
+- **TypeScript**: Static typing enforcing reliability, maintainability, and clean interfaces.
+- **SaaS applications**: Cohesive digital products engineered with clear visual hierarchy and dark themes.
+- **Interactive dashboards**: Data visualization cards, real-time charts, and telemetry status boards.
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="40" alt="Security Icon" />
+<br/>
+<b>Security</b>
+<br/>
+<img src="https://img.shields.io/badge/Security-Enforced-A78BFA?style=flat-square" />
+</div>
+
+<p>
+Integrating defensive security practices throughout the software development lifecycle.
+</p>
+
+- **SOC**: Security operations monitoring, threat detection, and system alert triage.
+- **VAPT**: Vulnerability assessment and penetration testing identifying security weaknesses.
+- **SIEM**: Structured log collection, correlation analysis, and security incident tracking.
+- **Secure APIs**: Robust authentication, authorization guards, and input sanitization protocols.
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+<!-- ========================================================================= -->
+<!-- SECTION: FEATURED PROJECTS                                                -->
+<!-- ========================================================================= -->
+
+<div id="projects" align="center">
+
+<p align="center">
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=flat-square&color=2E1065&labelColor=7C3AED" alt="Projects Eyebrow" />
+</p>
+
+<h2>Featured Products</h2>
+
+<p><i>Products and systems I'm building</i></p>
+
+</div>
+
+<br/>
+
+---
+
+<!-- PROJECT 1: KRISHIMIND-AI -->
+
+### 🌾 PROJECT 01: KRISHIMIND-AI
+**AI Agriculture Decision Platform**
+
+An AI-powered agriculture platform designed to help farmers make better decisions using contextual agricultural information.
+
+<br/>
+
+<p align="center">
+<img src="./assets/krishimind-preview.svg" width="95%" alt="Krishimind-AI Dashboard Preview" />
+</p>
+
+<br/>
+
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
+<tr>
+<td width="60%" valign="top">
+
+**Core Capabilities &amp; Features**
+
+- **Crop recommendations**: Data-driven crop selection models matching local soil types, seasons, and market demand.
+- **Soil information**: Contextual pH levels, moisture retention, and nitrogen analytics providing actionable guidance.
+- **Weather context**: Predictive weather forecasts integrated into daily farming operations and irrigation schedules.
+- **Crop-stage awareness**: Tailored advisory that automatically adapts to the current developmental stage of the crop.
+- **Image-based analysis**: Visual diagnosis models identifying plant disease, pest damage, and leaf pathology from uploaded photos.
+- **Market information**: Up-to-date regional market pricing, demand fluctuations, and commodity trends.
+- **Multi-language support**: Accessible interface delivering critical agronomic insights in multiple native languages.
+
+</td>
+<td width="40%" valign="top">
+
+**Architecture &amp; Technology Stack**
+
+<br/>
+
+- **Frontend**: `React` &bull; `Tailwind CSS` &bull; `Vite`
+- **Backend API**: `FastAPI` &bull; `Python`
+- **AI Core**: `Retrieval-Augmented Generation`
+- **Vector Database**: `Pinecone`
+- **Data Layer**: Contextual agronomic datasets &amp; weather APIs
+
+<br/>
+
+**Platform Summary**
+
+Krishimind-AI serves as a comprehensive digital decision assistant for agriculture. By combining localized soil metrics, predictive weather trends, and visual crop diagnostics with semantic vector search, it provides farmers with clear, personalized agronomic recommendations.
+
+<br/>
+
+[**View Project &rarr;**](https://github.com/AayushShah406)
+
+</td>
+</tr>
+</table>
+
+---
+
+<br/><br/>
+
+<!-- PROJECT 2: LIFEOS -->
+
+### 👁️ PROJECT 02: LIFEOS
+**Intelligent Perception System**
+
+A real-time computer vision and intelligent perception platform designed to understand the surrounding environment.
+
+<br/>
+
+<p align="center">
+<img src="./assets/lifeos-preview.svg" width="95%" alt="LifeOS Perception Preview" />
+</p>
+
+<br/>
+
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
+<tr>
+<td width="60%" valign="top">
+
+**Core Capabilities &amp; Features**
+
+- **Real-time object detection**: High-frequency video stream analysis processing incoming frames at 30 FPS.
+- **Multiple-object detection**: Concurrent tracking of multiple visual entities with accurate spatial bounding coordinates.
+- **Computer vision**: Video capture, frame normalization, and spatial feature processing powered by OpenCV.
+- **Face recognition**: Local biometric identification verifying authorized users without cloud dependencies.
+- **Text understanding**: Environmental text recognition allowing the system to comprehend written labels and signs.
+- **Conversational interaction**: Low-latency voice and text query assistant synthesizing scene context.
+- **Context-aware assistance**: Dynamic awareness correlating present visual observations with past session events.
+
+</td>
+<td width="40%" valign="top">
+
+**Architecture &amp; Technology Stack**
+
+<br/>
+
+- **Frontend Interface**: `React` &bull; `TypeScript`
+- **Server Core**: `FastAPI` &bull; `Python`
+- **Detection Model**: `YOLO` (You Only Look Once)
+- **Vision Library**: `OpenCV`
+- **Memory Store**: Semantic vector collection &amp; session logs
+
+<br/>
+
+**Platform Summary**
+
+LifeOS operates as an ambient perception system that bridges spatial vision with intelligent conversational assistance. The platform continuously monitors visual inputs, detects active entities, identifies faces and documents, and enables users to converse with the system about the immediate physical environment.
+
+<br/>
+
+[**View Project &rarr;**](https://github.com/AayushShah406/LifeOs)
+
+</td>
+</tr>
+</table>
+
+---
+
+<br/><br/>
+
+<!-- PROJECT 3: ENTERPRISE BUSINESS OPERATIONS PLATFORM -->
+
+### 🏢 PROJECT 03: ENTERPRISE BUSINESS OPERATIONS PLATFORM
+**Enterprise Business Operations Platform**
+
+An enterprise-oriented platform for business workflows, operational information, intelligent insights, and productivity.
+
+<br/>
+
+<p align="center">
+<img src="./assets/business-platform-preview.svg" width="95%" alt="Enterprise Business Operations Platform Preview" />
+</p>
+
+<br/>
+
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
+<tr>
+<td width="60%" valign="top">
+
+**Core Capabilities &amp; Features**
+
+- **Business dashboards**: Unified executive analytics visualizing organizational KPIs, revenues, and efficiency metrics.
+- **Operational workflows**: Automated multi-stage business pipelines executing routine operational handoffs.
+- **Role-based access**: Fine-grained authorization models protecting sensitive corporate data across user tiers.
+- **Data management**: Structured relational repositories guaranteeing ACID transaction consistency and auditability.
+- **Intelligent insights**: Analytical pattern recognition identifying operational bottlenecks and resource friction.
+- **Business process support**: Configurable approval workflows, task assignment queues, and status milestones.
+- **API-driven architecture**: Modular RESTful endpoints facilitating seamless integration with external tools.
+
+</td>
+<td width="40%" valign="top">
+
+**Architecture &amp; Technology Stack**
+
+<br/>
+
+- **Backend Framework**: `FastAPI` &bull; `Python`
+- **Primary Database**: `PostgreSQL`
+- **Frontend Dashboard**: `React` &bull; `TypeScript`
+- **AI Intelligence**: Custom analytical models &amp; reporting
+- **Integration**: Secure REST API endpoints
+
+<br/>
+
+**Platform Summary**
+
+This platform functions as a centralized operations hub for enterprise management. By unifying operational pipelines, user permissions, business intelligence, and administrative oversight into a cohesive web interface, it eliminates manual workflow friction and enhances team visibility.
+
+<br/>
+
+[**View Project &rarr;**](https://github.com/AayushShah406)
+
+</td>
+</tr>
+</table>
+
+---
+
+<br/><br/>
+
+<!-- PROJECT 4: SPRINTLY -->
+
+### 🏃 PROJECT 04: SPRINTLY
+**Project &amp; Collaboration Platform**
+
+A project management and collaboration platform designed around organized workflows and team productivity.
+
+<br/>
+
+<p align="center">
+<img src="./assets/sprintly-preview.svg" width="95%" alt="Sprintly Kanban Preview" />
+</p>
+
+<br/>
+
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
+<tr>
+<td width="60%" valign="top">
+
+**Core Capabilities &amp; Features**
+
+- **Project management**: Multi-project workspaces enabling structured milestone roadmaps and sprint organization.
+- **Task management**: Granular task creation with customizable priorities, estimates, tags, and assignments.
+- **Kanban workflows**: Interactive drag-and-drop state boards reflecting real-time task progression across stages.
+- **Role-based access**: Workspace-level permissions ensuring appropriate governance for managers and contributors.
+- **Team collaboration**: Threaded discussions, team activity feeds, instant status updates, and notification alerts.
+- **REST APIs**: Comprehensive RESTful backend powering decoupled web clients and automation webhooks.
+- **Data-driven dashboards**: Automated sprint burndown tracking, team velocity charts, and completion analytics.
+
+</td>
+<td width="40%" valign="top">
+
+**Architecture &amp; Technology Stack**
+
+<br/>
+
+- **Backend Framework**: `Django` &bull; `Python`
+- **API Engine**: `Django REST Framework`
+- **Database**: `PostgreSQL`
+- **Frontend**: `React` &bull; `Tailwind CSS`
+- **Architecture**: Decoupled client-server design
+
+<br/>
+
+**Platform Summary**
+
+Sprintly provides software teams with an intuitive, distraction-free environment for planning, executing, and tracking agile sprints. Designed with optimized PostgreSQL queries and responsive Kanban boards, it delivers rapid page loads and seamless real-time state synchronization.
+
+<br/>
+
+[**View Project &rarr;**](https://github.com/AayushShah406)
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+<!-- ========================================================================= -->
+<!-- SECTION: "FROM IDEA TO PRODUCT" WORKFLOW                                  -->
+<!-- ========================================================================= -->
+
+<div id="process" align="center">
+
+<p align="center">
+<img src="https://img.shields.io/badge/ENGINEERING%20PROCESS-7C3AED?style=flat-square&color=2E1065&labelColor=7C3AED" alt="Process Eyebrow" />
+</p>
+
+<h2>From Idea to Product</h2>
+
+<p>A systematic, product-focused methodology taking ideas from first principles to production software.</p>
+
+</div>
+
+<br/>
+
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
+<tr>
+<td width="25%" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/STAGE%2001-DISCOVER-7C3AED?style=flat-square" />
+<br/><br/>
+<b>01 &bull; DISCOVER</b>
+</div>
+
+<p>
+<b>Understand the real problem.</b>
+</p>
+
+- Deeply analyze the underlying user pain points before writing code.
+- Identify specific technical constraints, edge cases, and scope.
+- Define measurable success criteria and user expectations.
+- Map out core user journeys and product interaction models.
+
+</td>
+<td width="25%" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/STAGE%2002-DESIGN-8B5CF6?style=flat-square" />
+<br/><br/>
+<b>02 &bull; DESIGN</b>
+</div>
+
+<p>
+<b>Design architecture &amp; UX.</b>
+</p>
+
+- Establish clean architectural boundaries between components.
+- Design normalized relational schemas and vector storage models.
+- Prototype intuitive, accessible dark-themed user interfaces.
+- Specify strict, predictable RESTful API contracts.
+
+</td>
+<td width="25%" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/STAGE%2003-BUILD-A78BFA?style=flat-square" />
+<br/><br/>
+<b>03 &bull; BUILD</b>
+</div>
+
+<p>
+<b>Implement the system.</b>
+</p>
+
+- Develop scalable backend servers with FastAPI and Django.
+- Construct modular, reusable React and TypeScript components.
+- Integrate real-time computer vision models and AI capabilities.
+- Implement database indexing, connection pools, and caching.
+
+</td>
+<td width="25%" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/STAGE%2004-IMPROVE-C4B5FD?style=flat-square" />
+<br/><br/>
+<b>04 &bull; IMPROVE</b>
+</div>
+
+<p>
+<b>Test, iterate, optimize &amp; ship.</b>
+</p>
+
+- Execute automated unit, integration, and security test suites.
+- Profile database queries, optimize latencies, and minimize memory.
+- Package reproducible container environments with Docker.
+- Ship the product, analyze telemetry, and iterate continuously.
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+<!-- ========================================================================= -->
+<!-- SECTION: ENGINEERING STACK                                                -->
+<!-- ========================================================================= -->
+
+<div id="skills" align="center">
+
+<p align="center">
+<img src="https://img.shields.io/badge/TECHNOLOGY%20CATALOG-7C3AED?style=flat-square&color=2E1065&labelColor=7C3AED" alt="Stack Eyebrow" />
+</p>
+
+<h2>Engineering Stack</h2>
+
+<p>Technologies, frameworks, databases, and tools I use to build scalable products.</p>
+
+</div>
+
+<br/>
+
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
+<tr>
+<td width="33%" valign="top">
+
+### 💻 LANGUAGES
+
+Primary programming languages utilized for server architectures, script automation, data queries, and client-side logic:
+
+- **Python**: Primary language for server development, AI systems, and automation.
+- **JavaScript**: Core scripting for modern web browsers and interactive DOM logic.
+- **TypeScript**: Static typing enforcing reliability, interfaces, and maintainability.
+- **Java**: Object-oriented application development and enterprise architecture.
+- **Bash**: Shell scripting for system automation, environments, and tooling.
+- **SQL**: Relational database queries, schema definitions, and analytical joins.
+
+</td>
+<td width="33%" valign="top">
+
+### ⚙️ BACKEND
+
+High-performance endpoint routing, enterprise web application backends, and decoupled API interfaces:
+
+- **FastAPI**: Modern, high-throughput asynchronous Python web framework.
+- **Django**: Comprehensive web framework with built-in ORM and administration.
+- **Node.js**: Asynchronous event-driven JavaScript runtime environment.
+- **REST APIs**: Clean, predictable, and fully documented HTTP service contracts.
+
+</td>
+<td width="33%" valign="top">
+
+### 🎨 FRONTEND
+
+Modern responsive component hierarchies, fast development builds, and custom dark SaaS design systems:
+
+- **React**: Component-driven library for building declarative user interfaces.
+- **Vite**: Rapid frontend development tooling and production asset bundler.
+- **Tailwind CSS**: Utility-first styling framework for bespoke, polished UIs.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
+<tr>
+<td width="33%" valign="top">
+
+### 💾 DATABASES
+
+Relational schemas, flexible document stores, in-memory cache layers, and specialized vector collections:
+
+- **PostgreSQL**: Robust, enterprise relational database management system.
+- **MongoDB**: Schema-flexible document database for hierarchical workflows.
+- **Redis**: Low-latency in-memory data store for caching and pub/sub queues.
+- **MySQL**: Reliable relational database powering web applications.
+- **SQLite**: Lightweight, zero-configuration embedded database engine.
+
+</td>
+<td width="33%" valign="top">
+
+### 🧠 AI
+
+Deep learning frameworks, large language model integration, retrieval systems, and semantic vector indexing:
+
+- **PyTorch**: Deep learning framework for training and deploying neural networks.
+- **TensorFlow**: Machine learning platform for high-performance computation.
+- **LLMs**: Practical integration of foundation models into product workflows.
+- **RAG**: Retrieval-Augmented Generation grounding models in custom knowledge.
+- **Vector Search**: High-dimensional cosine similarity indexing with Pinecone and ChromaDB.
+
+</td>
+<td width="33%" valign="top">
+
+### 🛠️ TOOLS
+
+Version control, containerized deployment workflows, server environments, and reverse-proxy traffic management:
+
+- **Git**: Distributed version control system for source code management.
+- **GitHub**: Source code collaboration, code review, and automated actions.
+- **Linux**: Server operating environments, CLI administration, and POSIX tooling.
+- **Docker**: Containerization ensuring reproducible multi-stage builds.
+- **NGINX**: High-performance HTTP server, reverse proxy, and load balancer.
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+<!-- ========================================================================= -->
+<!-- SECTION: GITHUB ANALYTICS (SAAS TELEMETRY CARDS)                          -->
+<!-- ========================================================================= -->
+
+<div id="analytics" align="center">
+
+<p align="center">
+<img src="https://img.shields.io/badge/CLOUD%20TELEMETRY-7C3AED?style=flat-square&color=2E1065&labelColor=7C3AED" alt="Analytics Eyebrow" />
+</p>
+
+<h2>Engineering Activity</h2>
+
+<p>Continuous software development and open-source contributions.</p>
+
+<br/>
+
+<table border="0" width="100%" cellpadding="4" cellspacing="0">
+<tr>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=AayushShah406&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=8B5CF6&icon_color=A78BFA&text_color=A1A1AA&bg_color=12111D" alt="GitHub Stats Card" />
+</td>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushShah406&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6&text_color=A1A1AA&bg_color=12111D" alt="Top Languages Card" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AayushShah406&bg_color=12111D&color=8B5CF6&line=A78BFA&point=C4B5FD&area=true&hide_border=true&custom_title=Aayush%20Shah%20-%20Engineering%20Activity" alt="Activity Graph" />
+</p>
+
+<br/>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=AayushShah406&theme=tokyonight&hide_border=true&background=12111D&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6&sideLabels=A1A1AA&dates=71717A" alt="Streak Stats" />
+</p>
+
+</div>
+
+<br/><br/>
+
+<!-- ========================================================================= -->
+<!-- SECTION: ENGINEERING PHILOSOPHY                                           -->
+<!-- ========================================================================= -->
+
+<div id="philosophy" align="center">
+
+<p align="center">
+<img src="https://img.shields.io/badge/CORE%20PRINCIPLES-7C3AED?style=flat-square&color=2E1065&labelColor=7C3AED" alt="Philosophy Eyebrow" />
+</p>
+
+<h2>How I Think About Engineering</h2>
+
+<p>Fundamental values guiding my approach to technical design and implementation.</p>
+
+</div>
+
+<br/>
+
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
+<tr>
+<td width="25%" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/01-UNDERSTAND-7C3AED?style=flat-square" />
+<br/><br/>
+<b>01 &bull; Understand</b>
+</div>
+
+<p>
+<b>Start with the actual problem.</b>
+</p>
+
+Avoid premature assumptions. Deeply analyze the underlying need, technical constraints, and desired outcome before formulating a solution.
+
+True engineering begins with clear problem comprehension.
+
+</td>
+<td width="25%" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/02-DESIGN-8B5CF6?style=flat-square" />
+<br/><br/>
+<b>02 &bull; Design</b>
+</div>
+
+<p>
+<b>Choose a clear solution.</b>
+</p>
+
+Favor clean abstractions, predictable data flows, and simple architectures over unnecessary complexity.
+
+Software that is easy to reason about is inherently easier to scale, debug, and maintain.
+
+</td>
+<td width="25%" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/03-BUILD-A78BFA?style=flat-square" />
+<br/><br/>
+<b>03 &bull; Build</b>
+</div>
+
+<p>
+<b>Turn ideas into software.</b>
+</p>
+
+Write clean, robust code with strict type discipline, defensive validation, and thorough test verification.
+
+Focus on creating complete, working software products rather than unfinished prototypes.
+
+</td>
+<td width="25%" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/04-IMPROVE-C4B5FD?style=flat-square" />
+<br/><br/>
+<b>04 &bull; Improve</b>
+</div>
+
+<p>
+<b>Learn from every iteration.</b>
+</p>
+
+Continuously monitor production behavior, evaluate real-world feedback, optimize bottlenecks, and refine the product.
+
+Great software is the result of continuous, disciplined refinement.
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+<!-- ========================================================================= -->
+<!-- SECTION: CONTACT & FINAL CALL TO ACTION                                   -->
+<!-- ========================================================================= -->
+
+<div id="contact" align="center">
+
+<p align="center">
+<img src="https://img.shields.io/badge/LET'S%20BUILD-7C3AED?style=flat-square&color=2E1065&labelColor=7C3AED" alt="Contact Eyebrow" />
+</p>
+
+<h2>Have an idea worth building?</h2>
+
+<p align="center">
+I'm always interested in building useful products, exploring AI, and solving interesting engineering problems.
+</p>
+
+<br/>
+
+<p align="center">
+<a href="https://github.com/AayushShah406" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181824?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</p>
+
+<br/>
+
+<p align="center">
+<b>Aayush Shah</b><br/>
+<span style="color: #A1A1AA;">Software Engineer &bull; AI Engineer &bull; Product Builder</span>
+</p>
+
+</div>
+
+<br/><br/>
+
+<!-- ========================================================================= -->
+<!-- SECTION: ENGINEERING STANDARDS & ARCHITECTURAL BENCHMARKS                 -->
+<!-- ========================================================================= -->
+
+<div align="center">
+
+<p align="center">
+<img src="https://img.shields.io/badge/STANDARDS-CODE%20%26%20QUALITY-7C3AED?style=flat-square&color=2E1065&labelColor=7C3AED" alt="Standards Eyebrow" />
+</p>
+
+<h2>Engineering Standards &amp; Quality Benchmarks</h2>
+
+<p>Every product I engineer is guided by consistent architectural disciplines.</p>
+
+</div>
+
+<br/>
+
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Architectural Disciplines
+
+- **Domain Decoupling**: Business logic remains strictly separated from transport and database layers.
+- **Defensive Data Boundaries**: Strict schema validation ensures only sanitized inputs reach business functions.
+- **Predictable Error Handling**: Controlled failure domains prevent cascading outages across system dependencies.
+- **Deterministic State Flows**: Clean unidirectional state transitions make systems easy to reason about and test.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Performance &amp; Reliability Targets
+
+- **Low-Latency Routing**: Efficient endpoint resolution designed for high concurrency and minimal overhead.
+- **Indexed Relational Queries**: Comprehensive SQL query profiling avoiding unindexed table scans.
+- **Sub-Second AI Response**: Streamlined retrieval pipelines designed for interactive conversational response times.
+- **Modular Component Design**: Clean, reusable UI components adhering strictly to design token hierarchies.
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+<!-- ========================================================================= -->
+<!-- MINIMAL SAAS FOOTER                                                       -->
+<!-- ========================================================================= -->
+
+<hr style="border: 0; border-top: 1px solid #1E1B4B;" />
+
+<div align="center">
+
+<p align="center">
+<b>Aayush Shah</b>
+<br/>
+<span style="color: #71717A; font-size: 13px;">
+Software Engineering &bull; Artificial Intelligence &bull; Product Development
+</span>
+</p>
+
+<p align="center">
+<a href="https://github.com/AayushShah406" style="color: #8B5CF6; text-decoration: none;">GitHub</a>
+&nbsp;&bull;&nbsp;
+<a href="https://linkedin.com/in/" style="color: #8B5CF6; text-decoration: none;">LinkedIn</a>
+</p>
+
 </div>
