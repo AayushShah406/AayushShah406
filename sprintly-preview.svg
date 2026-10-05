@@ -1,0 +1,90 @@
+<svg width="800" height="240" viewBox="0 0 800 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="spCardBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#12111D" />
+      <stop offset="100%" stop-color="#09090E" />
+    </linearGradient>
+  </defs>
+
+  <!-- Container Box -->
+  <rect width="800" height="240" rx="14" fill="url(#spCardBg)" stroke="#8B5CF6" stroke-opacity="0.3" stroke-width="1.2" />
+
+  <!-- Top Window Header Bar -->
+  <rect width="800" height="34" rx="14" fill="#181726" />
+  <rect y="20" width="800" height="14" fill="#181726" />
+  <circle cx="20" cy="17" r="4" fill="#EF4444" opacity="0.8" />
+  <circle cx="34" cy="17" r="4" fill="#F59E0B" opacity="0.8" />
+  <circle cx="48" cy="17" r="4" fill="#10B981" opacity="0.8" />
+
+  <rect x="70" y="8" width="180" height="18" rx="6" fill="#0E0D18" stroke="#3B0764" stroke-width="0.8" />
+  <text x="82" y="20" fill="#A78BFA" font-family="system-ui, monospace" font-size="10">sprintly.app/board/sprint-14</text>
+
+  <rect x="690" y="9" width="90" height="16" rx="8" fill="#1E1B4B" stroke="#7C3AED" stroke-width="0.8" />
+  <text x="704" y="20" fill="#C4B5FD" font-family="system-ui, sans-serif" font-size="9" font-weight="600">SPRINT 14</text>
+
+  <!-- Kanban Columns View: 3 Columns -->
+
+  <!-- Column 1: To Do -->
+  <g transform="translate(18, 48)">
+    <rect width="244" height="174" rx="10" fill="#141322" stroke="#2E1065" stroke-width="1" />
+    <circle cx="18" cy="20" r="4" fill="#A1A1AA" />
+    <text x="28" y="24" fill="#F5F5F5" font-family="system-ui, sans-serif" font-size="11" font-weight="600">BACKLOG / TO DO</text>
+    <rect x="180" y="12" width="50" height="16" rx="8" fill="#1E1B4B" />
+    <text x="194" y="24" fill="#A78BFA" font-family="system-ui, sans-serif" font-size="9">3 tasks</text>
+
+    <!-- Card 1 -->
+    <rect x="12" y="38" width="220" height="58" rx="6" fill="#0E0D18" stroke="#2E1065" stroke-width="0.8" />
+    <text x="20" y="56" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="10" font-weight="600">PostgreSQL Schema Profiling</text>
+    <text x="20" y="70" fill="#71717A" font-family="system-ui, sans-serif" font-size="9">Optimize composite indices for sprint history</text>
+    <rect x="20" y="76" width="46" height="14" rx="3" fill="#3B0764" />
+    <text x="24" y="86" fill="#C4B5FD" font-family="system-ui, sans-serif" font-size="8">Backend</text>
+
+    <!-- Card 2 -->
+    <rect x="12" y="104" width="220" height="58" rx="6" fill="#0E0D18" stroke="#2E1065" stroke-width="0.8" />
+    <text x="20" y="122" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Redis Cache Queue Integration</text>
+    <text x="20" y="136" fill="#71717A" font-family="system-ui, sans-serif" font-size="9">Handle burst loads during sprint planning</text>
+    <rect x="20" y="142" width="38" height="14" rx="3" fill="#1E1B4B" />
+    <text x="24" y="152" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="8">Redis</text>
+  </g>
+
+  <!-- Column 2: In Progress -->
+  <g transform="translate(276, 48)">
+    <rect width="244" height="174" rx="10" fill="#141322" stroke="#2E1065" stroke-width="1" />
+    <circle cx="18" cy="20" r="4" fill="#8B5CF6" />
+    <text x="28" y="24" fill="#F5F5F5" font-family="system-ui, sans-serif" font-size="11" font-weight="600">IN PROGRESS</text>
+    <rect x="180" y="12" width="50" height="16" rx="8" fill="#2E1065" />
+    <text x="194" y="24" fill="#C4B5FD" font-family="system-ui, sans-serif" font-size="9">2 active</text>
+
+    <!-- Card 1 -->
+    <rect x="12" y="38" width="220" height="58" rx="6" fill="#181528" stroke="#7C3AED" stroke-width="1" />
+    <text x="20" y="56" fill="#F5F5F5" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Kanban Drag-and-Drop Sync</text>
+    <text x="20" y="70" fill="#A1A1AA" font-family="system-ui, sans-serif" font-size="9">State machine transitions with React &amp; TS</text>
+    <rect x="20" y="76" width="40" height="14" rx="3" fill="#4C1D95" />
+    <text x="24" y="86" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="8">React</text>
+
+    <!-- Card 2 -->
+    <rect x="12" y="104" width="220" height="58" rx="6" fill="#0E0D18" stroke="#2E1065" stroke-width="0.8" />
+    <text x="20" y="122" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Django REST Permissions (RBAC)</text>
+    <text x="20" y="136" fill="#71717A" font-family="system-ui, sans-serif" font-size="9">Enforce granular role authorization</text>
+    <rect x="20" y="142" width="40" height="14" rx="3" fill="#064E3B" />
+    <text x="24" y="152" fill="#34D399" font-family="system-ui, sans-serif" font-size="8">Django</text>
+  </g>
+
+  <!-- Column 3: Completed & Velocity -->
+  <g transform="translate(534, 48)">
+    <rect width="248" height="174" rx="10" fill="#141322" stroke="#2E1065" stroke-width="1" />
+    <circle cx="18" cy="20" r="4" fill="#10B981" />
+    <text x="28" y="24" fill="#F5F5F5" font-family="system-ui, sans-serif" font-size="11" font-weight="600">COMPLETED &bull; VELOCITY</text>
+
+    <rect x="12" y="38" width="224" height="48" rx="6" fill="#0E0D18" stroke="#2E1065" stroke-width="0.8" />
+    <text x="20" y="56" fill="#10B981" font-family="system-ui, sans-serif" font-size="10" font-weight="600">&check; Team Collaboration Chat</text>
+    <text x="20" y="70" fill="#71717A" font-family="system-ui, sans-serif" font-size="9">Threaded comments and live updates shipped</text>
+
+    <!-- Velocity Burndown Mini-Graph -->
+    <rect x="12" y="94" width="224" height="68" rx="6" fill="#0E0D18" stroke="#2E1065" stroke-width="0.8" />
+    <text x="20" y="110" fill="#A1A1AA" font-family="system-ui, sans-serif" font-size="9">Sprint Velocity Burndown</text>
+    <path d="M 22 144 L 60 136 L 100 128 L 140 120 L 180 114 L 220 110" stroke="#10B981" stroke-width="1.8" fill="none" />
+    <path d="M 22 144 L 60 138 L 100 132 L 140 124 L 180 116 L 220 110 L 220 152 L 22 152 Z" fill="#10B981" fill-opacity="0.08" />
+    <text x="20" y="154" fill="#34D399" font-family="system-ui, sans-serif" font-size="8">48 Story Points Shipped</text>
+  </g>
+</svg>
