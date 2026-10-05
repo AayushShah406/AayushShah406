@@ -133,8 +133,6 @@ I am a **Software Engineer** specializing in **high-performance backend architec
       <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=speedtest&logoColor=white" />
       <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=theia&logoColor=black" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
     </td>
   </tr>
   <tr>
